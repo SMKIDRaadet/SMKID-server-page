@@ -42,7 +42,7 @@ function Layout() {
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-blue-200">SMKID</h1>
-              <p className="text-sm text-blue-200">Servere</p>
+              <p className="text-sm text-blue-200">Server</p>
             </div>
           </div>
 

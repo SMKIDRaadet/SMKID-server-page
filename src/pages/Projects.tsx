@@ -26,9 +26,8 @@ At oprette en personlig hjemmeside er en fantastisk måde at lære serveradminis
 
 Opret din egen spilserver og inviter dine venner til at spille! Dette er en sjov måde at lære om serverhosting, ydeevneoptimering og netværk.
 
-- **Sværhedsgrad**: Øvet/Avanceret
-- **Teknologier**: Minecraft, Counter-Strike, eller andre spilservere
-- **Vejledning**: [Guide til opsætning af en spilserver](link-til-guide)
+- **Sværhedsgrad**: Let-Øvet-Avanceret
+- **Vejledning**: [Guide til opsætning af en minecraft server](https://help.minecraft.net/hc/en-us/articles/360058525452-How-to-Setup-a-Minecraft-Java-Edition-Server)
 
 ### Tips
 - Vær opmærksom på at kun servere der kører over tcp (som minecraft) kan gøres tilgængelige uden vpn grundet DTU firewall. Vi arbejder på en løsning.

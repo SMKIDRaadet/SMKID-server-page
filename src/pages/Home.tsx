@@ -23,8 +23,7 @@ Er du ny her? Begynd med at kigge på vores **[Kom i gang-guide](link-til-guide)
 - **[Server Status](https://status.smkid.dk)** - Se status på SMKID servere og services .
 - **[Guidelines & Regler](guidelines)** - Vigtig information om ansvarlig brug og adfærdsregler.
 - **[Wiki & Vidensbase](wiki)** - Find svar på spørgsmål, guides og teknisk dokumentation.
-- **[Guides og Tutorials](link-til-guides)** - Få hjælp til opsætning og administration af din VPS.
-- **[Projektidéer](link-til-projektidéer)** - Bliv inspireret til projekter, du kan starte.
+- **[Projektidéer](projects)** - Bliv inspireret til projekter, du kan starte.
 
 ---
 
@@ -40,7 +39,7 @@ Her kan du følge med i de nyeste opdateringer om serverprojektet, arrangementer
 
 ### Har du spørgsmål?
 
-Har du spørgsmål eller brug for hjælp? Besøg vores **[Kontakt og Support-side](link-til-kontakt)**, hvor du kan finde vores kontaktinformation eller sende os en besked. Vi er her for at hjælpe dig!
+Har du spørgsmål eller brug for hjælp? Besøg vores **[Kontakt og Support-side](kontakt)**, hvor du kan finde vores kontaktinformation eller sende os en besked. Vi er her for at hjælpe dig!
 
 ---
 
