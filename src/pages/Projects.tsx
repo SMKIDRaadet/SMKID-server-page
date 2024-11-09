@@ -14,7 +14,7 @@ At oprette en personlig hjemmeside er en fantastisk måde at lære serveradminis
 
 - **Sværhedsgrad**: Begynder/Øvet
 - **Teknologier**: HTML, CSS, WordPress, Nginx/Apache
-- **Vejledning**: [Guide til opsætning af en webserver](link-til-guide)
+- **Vejledning**: [Guide til opsætning af en webserver](https://nginx.org/en/docs/beginners_guide.html)
 
 ### Tips
 - Eksperimentér med forskellige webservere, som Nginx eller Apache, og lær forskellen mellem dem.
