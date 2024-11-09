@@ -33,7 +33,7 @@ Her kan du følge med i de nyeste opdateringer om serverprojektet, arrangementer
 
 - **Kommende Event**: SMKID server dag – Kom og få din egen VPS og mød andre studerende!
 - **Nye tutorials**: Vi er i gang med skrive og samle en række guides til at komme godt i gang med din server
-- **Backup server**: En backup server er på vej til så vi kan få inkrementel af alle VPS. 
+- **Backup server**: En backup server er på vej til så vi kan få inkrementel backup af alle VPS. 
 
 ---
 
@@ -42,11 +42,6 @@ Her kan du følge med i de nyeste opdateringer om serverprojektet, arrangementer
 Har du spørgsmål eller brug for hjælp? Besøg vores **[Kontakt og Support-side](kontakt)**, hvor du kan finde vores kontaktinformation eller sende os en besked. Vi er her for at hjælpe dig!
 
 ---
-
-## Bliv en del af fællesskabet
-
-Vil du være med til at gøre serverprojektet endnu bedre? Vores fællesskab vokser, og vi leder altid efter engagerede studerende, der vil bidrage. Uanset om du vil være med til at udvikle serverne, hjælpe andre studerende eller dele dine erfaringer, så er der plads til dig her.
-
 
 
 `;
